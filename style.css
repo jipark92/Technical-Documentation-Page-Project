@@ -1,11 +1,49 @@
+#main-doc {
+    display: grid;
+    grid-template-columns: 200px 665px;
+    background-color: lightcyan;
+  
+}
 
 
 
 
+.nav-link{
+    text-decoration: none;
+    color:black;
+    
+    
+}
+
+header{
+    
+   
+}
+
+.sidebar{
+    grid-column: 1 / 2;
+    
+}
 
 
+.main-section{
+    border: 1px solid black;
+    height:50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    
+
+}
 
 
+.secondpage{
+    border:1px solid black;
+    grid-column: 2 / 4;
+   
+    
+}
 
 
 
