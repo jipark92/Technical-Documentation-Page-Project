@@ -1,8 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100&family=Roboto:ital,wght@0,500;1,300&display=swap');
+
+
+
 #main-doc {
     display: grid;
     grid-template-columns: 200px 665px;
-    background-color: lightcyan;
-  
+    background-color: white;
+    font-family: 'Montserrat', sans-serif;
+
+    font-family: 'Roboto', sans-serif;
+    color: black;
 }
 
 
@@ -15,9 +22,8 @@
     
 }
 
-header{
-    
-   
+#documentation{
+    font-size: 20px;
 }
 
 .sidebar{
@@ -30,8 +36,9 @@ header{
     border: 1px solid black;
     height:50px;
     display: flex;
-    justify-content: center;
+    justify-content: flex-start;
     align-items: center;
+    padding-left: 10px;
     
     
 
@@ -44,6 +51,8 @@ header{
    
     
 }
+
+#variables
 
 
 
