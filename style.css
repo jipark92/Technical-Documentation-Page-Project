@@ -18,13 +18,19 @@ body{
 
 .nav-link{
     text-decoration: none;
-    color:black;
-    
-    
+    color:red;
+}
+
+h1{
+    color: red;
+}
+h3{
+    color: blue;
 }
 
 #documentation{
     font-size: 20px;
+    
 }
 
 .sidebar{
@@ -42,6 +48,8 @@ body{
     justify-content: flex-start;
     align-items: center;
     padding-left: 10px;
+    padding-bottom: 10px;
+    padding-top: 10px;
     
     
 
@@ -51,7 +59,9 @@ body{
 .secondpage{
     border:1px solid black;
     grid-column: 2 / 4;
-   
+    display:flex;
+    flex-direction: column;
+    padding: 25px; 
     
 }
 
