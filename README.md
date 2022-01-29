@@ -2,6 +2,7 @@
 
 live-link: https://norfkorean.github.io/Technical-Documentation-Page-Project/
 
+you can click the links/text on the left side to navigate to specific section.
 
 i will be building a technical documentation page with the grid method as i want to practice on my grid skills. 
 
